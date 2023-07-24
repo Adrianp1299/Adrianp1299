@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm currently a student at Bloomtech learning how to become a Frontend Developer 
+
+- ❤ my favorite part of programming is the problem solving
+- 👯 I’m looking to create lots of connections in the programming world
+- 📫 How to reach me: adrianp1299@gmail.com
+
+⭐️ From [hazemessam](https://github.com/hazemessam) Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
 <!--
 **Adrianp1299/Adrianp1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
